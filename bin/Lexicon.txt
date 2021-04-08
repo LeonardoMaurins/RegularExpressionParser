@@ -1,0 +1,12 @@
+the DT
+a DT
+man NN 
+men NNS
+woman NN
+women NNS
+bites VBZ
+bite VB
+like IN
+likes VBZ
+green JJ
+dog NN
